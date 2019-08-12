@@ -1,5 +1,5 @@
 # SAMP-RPG-projeto
-## Author: https://github.com/srmilton
+## Autor: https://github.com/srmilton
 
 ### Descrição
 Esse código foi feito para San Andreas Multi Player com a proposta de um modo de jogo RPG utilizando MySql e AntiCheat dedicado. Devido a quantidade de bugs e hackers nos codigos diponiveis atualmente, resolvi fazer esse com a minha cara totalmente do zero e com um anti cheat proprio (ainda não finalizado).
